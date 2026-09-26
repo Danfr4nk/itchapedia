@@ -1,4 +1,4 @@
-> **Renamed 2026-09-25.** Sammypedia → **Itchapedia**, Dan's call: the itch is the foundational text, and *Itchapedia* works better linguistically — an encyclopedia of the itch, not just of Sammy. Working tag `!ITCHAPEDIA` (replaces `!SAMMYPEDIA`, retired same day). Repo `Danfr4nk/itchapedia` (private).
+> **Renamed 2026-09-25.** Sammypedia → **Itchapedia**, Dan's call: the itch is the foundational text, and *Itchapedia* works better linguistically — an encyclopedia of the itch, not just of Sammy. Working tag `!ITCHAPEDIA` (replaces `!SAMMYPEDIA`, retired same day). Repo `Danfr4nk/itchapedia` (public since 2026-09-26). Live site: https://danfr4nk.github.io/itchapedia/ — auto-built from the markdown layers on every push to main (`bin/build-site` + GitHub Pages).
 
 # ITCHAPEDIA
 
